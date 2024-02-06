@@ -1,6 +1,7 @@
 github.com/10mohi6/hugo-theme-simple-blog
 github.com/17ms/yuan
 github.com/1bl4z3r/hermit-V2
+https://github.com/rebelsec/NgeBlog
 github.com/2-REC/hugo-myportfolio-theme
 github.com/4ever9/less
 github.com/4s3ti/hugo-theme-hello-4s3ti
@@ -448,6 +449,7 @@ github.com/weastur/hugo-texify2
 github.com/wileybaba/hugo-theme-robotico
 github.com/willfaught/paige
 github.com/WingLim/hugo-tania
+https://github.com/rebelsec/NgeBlog
 github.com/Wivik/am-writing-hugo-theme
 github.com/Wivik/vinyl-records-collection-theme
 github.com/wjh18/hugo-liftoff/v3
@@ -501,3 +503,4 @@ gitlab.com/VincentTam/huginn
 gitlab.com/writeonlyhugo/up-business-theme
 gitlab.com/writeonlyhugo/writeonlyhugo-theme
 wangchucheng.com/hugo-eureka
+https://github.com/rebelsec/NgeBlog
